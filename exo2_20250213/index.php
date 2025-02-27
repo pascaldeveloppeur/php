@@ -63,32 +63,32 @@
                        
                     </div>
                     <div class="col-md-8">
-                        <h3>Nom de l"entreprise</h3>
+                        <h3>Ethique Médicale</h3>
                         <p>Missios réalisées: </p>
                         <ul class="">
-                            <li> Stage à la société SOTRACO SA</li>
-                            <li> Stage à la société Neslet SA</li>
-                            <li> Stage à la société MORISET&CO</li>
-                            <li> Stage à la société MORISET&CO</li>
-                            <li> Stage à la société MORISET&CO</li>
+                            <li> Dépannage de machine médicale</li>
+                            <li> Installation de matétiels médical</li>
+                            <li> Travail de maintenant</li>
+                            <li> Etude de document technique</li>
+                            <li> Installation de prises d'oxigène dans des hopitaux</li>
                         </ul>
 
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4 text-center">
-                       <p>2019-2020:</p>
+                       <p>2021-2023:</p>
                        
                     </div>
                     <div class="col-md-8">
-                        <h3>Nom de l"entreprise</h3>
+                        <h3>MORISET&CO</h3>
                         <p>Missios réalisées: </p>
                         <ul class="">
-                            <li> Stage à la société SOTRACO SA</li>
-                            <li> Stage à la société Neslet SA</li>
-                            <li> Stage à la société MORISET&CO</li>
-                            <li> Stage à la société MORISET&CO</li>
-                            <li> Stage à la société MORISET&CO</li>
+                            <li> Developpement du client avec Blazor</li>
+                            <li> Developpement d'une API avec spring boot</li>
+                            <li> Mise en place d'une base de donnée avec Postgresql</li>
+                            <li> Mise en place d'un architechture CI avec Jenkins</li>
+                            <li>  Mise en place d'un architechture CI-CD avec Jenkins, docker er Kubernetes</li>
                         </ul>
 
                     </div>
@@ -100,7 +100,7 @@
                 <div>
                     <ul class="list-unstyled ">
                         <li><strong>Master en Informatique</strong>
-                        <em>Université de Paris | 2017 - 2019</em>
+                        <em>Lycée scientifique de Bertoua | 2014 - 2015</em>
                         <p>Spécialisation en développement web et bases de données.</p></li>
                         <li><strong>Master en Informatique</strong>
                         <em>Université de Paris | 2017 - 2019</em>
